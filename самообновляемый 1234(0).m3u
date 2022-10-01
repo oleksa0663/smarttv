@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,Мир  
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1,НТВ 
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ Сериал  
+http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1,НТВ хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1,МИР сериал
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1,Русский Детектив
+http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1,Квартал ТВ
+http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,ТЕТ
+http://176.9.48.60:23055/play/a01c
+#EXTINF:-1,САРАФАН 
+http://91.240.120.26:8080/sarafan/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СТС  
+http://91.240.120.26:8080/sts_hd/mono.m3u8
+#EXTINF:-1,СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:-1,СТС LOVE  
+http://91.240.120.26:8080/sts-love/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Охота и рыбалка
+https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1,КИНО ТВ 
+http://91.240.120.26:8080/kino-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Наше любимое кино  
+http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1,Русский иллюзион  
+https://sc.id-tv.kz/RusIlluzion_34_35.m3u8?session=3baa0c37fcd169c1d0891667910a2823
+#EXTINF:-1,Русский Детектив  
+http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1,ТНТ  
+http://91.240.120.26:8080/tnt_hd/mono.m3u8
+#EXTINF:-1,Охота и рыбалка 
+https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1,2х2  
+http://91.240.120.26:8080/2x2/mono.m3u8
+#EXTINF:-1,пп
+https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
+#EXTINF:-1,Мир HD  chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1,НТВ  ааЂа0 hd DTX-34 site-13 decklink://4 airstream00
+#EXTVLCOPT:network-caching=1000
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ сериал  аЁаЕбаИаАаЛ udp://233.32.210.170:1324?fifo_size=1
+http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1,НТВ хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1,СТС Love  mono.m3u8
+#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1,Сарафан  mono.m3u8
+#EXTVLCOPT:network-caching=1000
+http://91.240.120.26:8080/sarafan/tracks-v1a1/mono.m3u8
+#EXTINF:-1,пп
+https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1,НТВ
+http://mfe02.cliptv.az/dash/HTB_HD.ism/playlist.mpd
+#EXTINF:-1,НТВ сериал 
+http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1,НТВ хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1,СТС
+https://sc.id-tv.kz/STS_36_37.m3u8?session=14f7a664fbec86847f9cd36150e927a7
+#EXTINF:-1,СТС Love
+http://mfe02.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1,Русский Детектив
+
