@@ -27,8 +27,8 @@ http://91.240.120.26:8080/sts-love/tracks-v1a1/mono.m3u8
 https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1,КИНО ТВ 
 http://91.240.120.26:8080/kino-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,СССР ТВ
-https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,TV21
+http://193.233.9.49/streams/media/TV_XXI/index.m3u8
 #EXTINF:-1,Наше любимое кино  
 http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1,Русский иллюзион  
