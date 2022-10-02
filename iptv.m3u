@@ -32,7 +32,7 @@ https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1,Наше любимое кино  
 http://mfe02.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1,Русский иллюзион  
-https://sc.id-tv.kz/RusIlluzion_34_35.m3u8?session=3baa0c37fcd169c1d0891667910a2823
+http://86.57.178.105:10823
 #EXTINF:-1,Русский Детектив  
 http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:-1,ТНТ  
