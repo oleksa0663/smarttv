@@ -15,14 +15,36 @@ http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,ТЕТ
 http://176.9.48.60:23055/play/a01c
-#EXTINF:-1,САРАФАН 
-http://91.240.120.26:8080/sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1,СТС  
 http://91.240.120.26:8080/sts_hd/mono.m3u8
 #EXTINF:-1,СТС
 http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 #EXTINF:-1,СТС LOVE  
 http://91.240.120.26:8080/sts-love/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox
+http://mfe02.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:-1,Fox Life
+http://193.233.9.49/streams/media/FOX_HD/index.m3u8
+#EXTINF:-1,Galaxy TV
+http://193.233.9.49/streams/media/Fox_Life/index.m3u8
+#EXTINF:-1,Red
+http://radm.mediacdn.ru/cdn/galaxy/playlist_sdhigh.m3u8
+#EXTINF:-1,ТВ21
+https://mhd116.iptv2022.com/p/vprUJWo2kA4b0ckMBtrdRQ,1662910273/streaming/red/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:98,index.m3u8
+http://193.233.9.49/streams/media/TV_XXI/index.m3u8
+#EXTINF:-1,ДОМ КИНО
+http://193.233.9.49/streams/media/Dom_kino/index.m3u8
+#EXTINF:-1,Еврокино
+http://193.233.9.49/streams/media/EVROKINO/index.m3u8
+#EXTINF:-1,НТВ Правда
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
+#EXTINF:-1,Русский иллюзион
+https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
+#EXTINF:-1,ТНТ
+https://mhd116.iptv2022.com/p/ENsC3b_VMJLCDLxVoMt8ig,1662910271/streaming/tntott/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1,Че!
+https://mhd116.iptv2022.com/p/io_TIIy8mXn1xvsvpzpV0g,1662910272/streaming/cheott/324/1/
 #EXTINF:-1,Охота и рыбалка
 https://sc.id-tv.kz/Ribalka_Ohota_36_37.m3u8
 #EXTINF:-1,КИНО ТВ 
