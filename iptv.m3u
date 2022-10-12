@@ -22,7 +22,7 @@ http://91.213.59.156/play/72/index.m3u8
 #EXTINF:-1,МЕГА
 http://91.213.59.156/play/70/index.m3u8
 #EXTINF:-1,Квартал ТВ 
-http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA
 #EXTINF:-1,Мир  
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
 #EXTINF:-1,,Мир Белогорья
@@ -52,6 +52,30 @@ http://194.143.148.28:8080/CTCLove/tracks-v1a1/mono.m3u8
 https://mhd116.iptv2022.com/p/LpSVIGMnBR3nDPA0FOX0Eg,1662910271/streaming/rentvott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,ТВ3 
 http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="KINO+",ТНТ4 International
+https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+#EXTINF:-1,ТНТ
+https://mhd116.iptv2022.com/p/ENsC3b_VMJLCDLxVoMt8ig,1662910271/streaming/tntott/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1,ТНТ4 International
+https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+#EXTINF:-1,Че!
+https://mhd116.iptv2022.com/p/io_TIIy8mXn1xvsvpzpV0g,1662910272/streaming/cheott/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1,КВН ТВ
+http://radm.mediacdn.ru/cdn/kvn/playlist_sdhigh.m3u8
+#EXTINF:-1,2х2
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1,Galaxy TV
+http://radm.mediacdn.ru/cdn/galaxy/playlist_sdhigh.m3u8
+#EXTINF:-1,Трофей
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1,Рибалка ТВ
+http://91.213.59.156/play/29/index.m3u8
+#EXTINF:-1,Рыбалка и охота
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
+#EXTINF:-1 ,Eurosport 2 HD
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
+#EXTINF:-1,Лучшие моменты ЛЧ
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:-1,amedia-1
@@ -70,26 +94,6 @@ http://193.233.9.49/streams/media/Dom_kino/index.m3u8
 http://193.233.9.49/streams/media/EVROKINO/index.m3u8
 #EXTINF:-1,Русский иллюзион
 https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
-#EXTINF:-1,ТНТ
-https://mhd116.iptv2022.com/p/ENsC3b_VMJLCDLxVoMt8ig,1662910271/streaming/tntott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1,Че!
-https://mhd116.iptv2022.com/p/io_TIIy8mXn1xvsvpzpV0g,1662910272/streaming/cheott/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1,КВН ТВ
-http://radm.mediacdn.ru/cdn/kvn/playlist_sdhigh.m3u8
-#EXTINF:-1,2х2
-https://mhd158.iptv2022.com/p/nehHOjldf9IqbZsynbdcgg,1653650899/streaming/2x2/324/1/tracks-v3a1/mono.m3u
-#EXTINF:-1,Galaxy TV
-http://radm.mediacdn.ru/cdn/galaxy/playlist_sdhigh.m3u8
-#EXTINF:-1,Трофей
-http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
-#EXTINF:-1,Рибалка ТВ
-http://91.213.59.156/play/29/index.m3u8
-#EXTINF:-1,Рыбалка и охота
-https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
-#EXTINF:-1 ,Eurosport 2 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
-#EXTINF:-1,Лучшие моменты ЛЧ
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,пппппппп
 https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
 #EXTINF:-1,Видеокассета
