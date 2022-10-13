@@ -203,5 +203,5 @@ http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 http://mfe02.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1,Сарафан  mono.m3u8
 #EXTVLCOPT:network-caching=1000
-http://91.240.120.26:8080/sarafan/tracks-v1a1/mono.m3u8
+http://178.163.45.148:81/udp/234.0.0.246:2000
 
