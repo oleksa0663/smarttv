@@ -28,6 +28,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
 #EXTINF:-1,,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com#EXTINF:-1,НТВ 
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1,НТВ Сериал  
 http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
 #EXTINF:-1,НТВ хит
@@ -38,10 +40,6 @@ http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
 #EXTINF:-1,Русский Детектив
 http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
-#EXTINF:-1,Квартал ТВ
-http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,ТЕТ
-http://176.9.48.60:23055/play/a01c
 #EXTINF:-1,СТС  
 https://mhd116.iptv2022.com/p/LqMNMxOhuwJ8BJQIGeIGqw,1662910271/streaming/stsott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,СТС
@@ -52,7 +50,7 @@ http://194.143.148.28:8080/CTCLove/tracks-v1a1/mono.m3u8
 https://mhd116.iptv2022.com/p/LpSVIGMnBR3nDPA0FOX0Eg,1662910271/streaming/rentvott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,ТВ3 
 http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="KINO+",ТНТ4 International
+#EXTINF:-1,ТНТ4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1,ТНТ
 https://mhd116.iptv2022.com/p/ENsC3b_VMJLCDLxVoMt8ig,1662910271/streaming/tntott/324/1/tracks-v4a1/mono.m3u8
@@ -74,7 +72,7 @@ http://193.233.9.49/streams/media/FOX_HD/index.m3u8
 http://193.233.9.49/streams/media/Fox_Life/index.m3u8
 #EXTINF:-1,Red
 https://mhd116.iptv2022.com/p/vprUJWo2kA4b0ckMBtrdRQ,1662910273/streaming/red/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1,ТВ21
+#EXTINF:-1,TV XXI
 http://193.233.9.49/streams/media/TV_XXI/index.m3u8
 #EXTINF:-1,ДОМ КИНО
 http://193.233.9.49/streams/media/Dom_kino/index.m3u8
@@ -116,6 +114,10 @@ http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
 http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 #EXTINF:-1,Кинокомедия 
 http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
+#EXTINF:-1,BOLT
+http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
+#EXTINF:-1,Любимое Кино
+http://91.213.59.156/play/92/index.m3u8
 #EXTINF:-1,Иллюзион+ kaz
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 #EXTINF:-1,Иллюзион+
@@ -150,10 +152,6 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 http://193.233.9.49/streams/media/EVROKINO/index.m3u8
 #EXTINF:-1,Еврокино HD
 http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
-#EXTINF:-1,BOLT
-http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
-#EXTINF:-1,Любимое Кино
-http://91.213.59.156/play/92/index.m3u8
 #EXTINF:-1,TV XXI
 http://213.172.73.171:8081/nimble_live/1169__TV_21M/playlist.m3u8
 #EXTINF:-1,BACKUS TV HD       
@@ -188,20 +186,77 @@ https://v2.catcast.tv/content/270/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,пппппппппп
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-#EXTINF:-1,Мир HD  chunklist.m3u8
-#EXTVLCOPT:network-caching=1000
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
-#EXTINF:-1,НТВ  ааЂа0 hd DTX-34 site-13 decklink://4 airstream00
-#EXTVLCOPT:network-caching=1000
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:-1 ,НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1,НТВ сериал  аЁаЕбаИаАаЛ udp://233.32.210.170:1324?fifo_size=1
 http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1,НТВ хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1,СТС Love  mono.m3u8
-#EXTVLCOPT:network-caching=1000
-http://mfe02.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
-#EXTINF:-1,Сарафан  mono.m3u8
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,НТВ Хит
+http://194.143.148.28:8080/NTVHit/mpegts
+#EXTINF:-1 ,Мир сериала
+http://178.163.45.148:81/udp/234.0.0.103:20
+#EXTINF:-1 ,СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://194.143.148.28:8080/CTCLove/mpegts
+#EXTINF:-1 ,Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 ,Пятница!
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 ,Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 ,Сарафан
 http://178.163.45.148:81/udp/234.0.0.246:2000
+#EXTINF:-1 ,Родное Кино
+http://178.163.45.148:81/udp/234.0.0.177:2000
+#EXTINF:-1 ,Русский Иллюзион
+http://178.163.45.148:81/udp/234.0.0.178:2000
+#EXTINF:-1 ,Совершенно секретно
+http://178.163.45.148:81/udp/234.0.0.185:2000
+#EXTINF:-1 ,TV XXI
+http://178.163.45.148:81/udp/234.0.0.187:2000
+#EXTINF:-1 ,Матч! Страна
+http://178.163.45.148:81/udp/234.0.0.188:2000
+#EXTINF:-1 ,Охота и рыбалка
+http://178.163.45.148:81/udp/234.0.0.230:2000
+#EXTINF:-1 ,===========================
+#EXTINF:-1 ,Мир   (сарафан)
+http://178.163.45.148:81/udp/234.0.0.246:2000
+#EXTINF:-1,Мир сериала      ++
+http://178.163.45.148:81/udp/234.0.0.103:2000
+#EXTINF:-1 ,НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://194.143.148.28:8080/NTVHit/mpegts
+#EXTINF:-1 ,СТС   (Телекафе)
+http://178.163.45.148:81/udp/234.0.0.249:2000
+#EXTINF:-1 ,СТС Love
+http://194.143.148.28:8080/CTCLove/mpegts
+#EXTINF:-1 ,Пятница!    (?? Д)
+http://178.163.45.148:81/udp/234.0.0.10:2000
+#EXTINF:-1 ,Звезда     (мама)
+http://178.163.45.148:81/udp/234.0.0.101:2000
+#EXTINF:-1,Сарафан     (++)
+http://178.163.45.148:81/udp/234.0.0.246:2000
+#EXTINF:-1,Домашний      (??)
+http://178.163.45.148:81/udp/234.0.0.1:2000
+#EXTINF:-1,Q1
+http://178.163.45.148:81/udp/234.0.0.188:200
+#EXTINF:-1 ,Родное Кино
+http://178.163.45.148:81/udp/234.0.0.177:2000
+#EXTINF:-1 ,Русский Иллюзион
+http://178.163.45.148:81/udp/234.0.0.178:2000
+#EXTINF:-1 ,Телекафе
+http://178.163.45.148:81/udp/234.0.0.249:2000
+#EXTINF:-1 ,Совершенно секретно
+http://178.163.45.148:81/udp/234.0.0.185:2000
+#EXTINF:-1 ,TV XXI
+http://178.163.45.148:81/udp/234.0.0.187:2000
+#EXTINF:-1 ,2x2
+http://31.28.61.84:4022/udp/232.0.2.4:1234
+#EXTINF:-1 ,Матч! страна
+http://178.163.45.148:81/udp/234.0.0.188:2000
+#EXTINF:-1 ,Охота и рыбалка
+http://178.163.45.148:81/udp/234.0.0.230:2000
 
