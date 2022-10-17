@@ -37,7 +37,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 #EXTINF:-1,НТВ Правда
 http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 #EXTINF:-1,МИР сериал
-http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+http://178.163.45.148:81/udp/234.0.0.103:2000
 #EXTINF:-1,Русский Детектив
 http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:-1,СТС  
@@ -46,10 +46,14 @@ https://mhd116.iptv2022.com/p/LqMNMxOhuwJ8BJQIGeIGqw,1662910271/streaming/stsott
 http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 #EXTINF:-1,СТС LOVE  
 http://194.143.148.28:8080/CTCLove/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Сарафан     
+http://178.163.45.148:81/udp/234.0.0.246:2000
 #EXTINF:-1,РЕН ТВ
 https://mhd116.iptv2022.com/p/LpSVIGMnBR3nDPA0FOX0Eg,1662910271/streaming/rentvott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,ТВ3 
 http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
+#EXTINF:-1 ,Пятница!  
+http://iptv.ktkru.ru:8016/index.m3u8
 #EXTINF:-1,ТНТ4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1,ТНТ
@@ -64,8 +68,6 @@ http://radm.mediacdn.ru/cdn/kvn/playlist_sdhigh.m3u8
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1,Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:-1,amedia-1
-http://mfe02.cliptv.az/dash/A1_SD.ism/playlist.mpd
 #EXTINF:-1,Fox
 http://193.233.9.49/streams/media/FOX_HD/index.m3u8
 #EXTINF:-1,Fox Life
@@ -80,6 +82,59 @@ http://193.233.9.49/streams/media/Dom_kino/index.m3u8
 http://193.233.9.49/streams/media/EVROKINO/index.m3u8
 #EXTINF:-1,Русский иллюзион
 https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
+#EXTINF:-1,Galaxy TV
+http://radm.mediacdn.ru/cdn/galaxy/playlist_sdhigh.m3u8
+#EXTINF:-1,Трофей
+http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1,Рибалка ТВ
+http://91.213.59.156/play/29/index.m3u8
+#EXTINF:-1,Рыбалка и охота
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
+#EXTINF:-1 ,Eurosport 2 HD
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
+#EXTINF:-1,Лучшие моменты ЛЧ
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,Лучшие моменты ЛЧ
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,Телеканал High TV
+https://v2.catcast.tv/content/270/index.m3u8
+#EXTINF:-1,Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+====================================================
+#EXTINF:-1,проба
+https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
+#EXTINF:-1 ,Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:-1 ,НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://194.143.148.28:8080/NTVHit/mpegts
+#EXTINF:-1 ,Мир сериала
+http://178.163.45.148:81/udp/234.0.0.103:2000
+#EXTINF:-1 ,СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 ,СТС Love
+http://194.143.148.28:8080/CTCLove/mpegts
+#EXTINF:-1 ,Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 ,Пятница!
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 ,Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 ,Сарафан
+http://178.163.45.148:81/udp/234.0.0.246:2000
+#EXTINF:-1 ,Родное Кино
+http://178.163.45.148:81/udp/234.0.0.177:2000
+#EXTINF:-1 ,Русский Иллюзион
+http://178.163.45.148:81/udp/234.0.0.178:2000
+#EXTINF:-1 ,TV XXI
+http://178.163.45.148:81/udp/234.0.0.187:2000
+#EXTINF:-1 ,Совершенно секретно
+http://178.163.45.148:81/udp/234.0.0.185:2000
+#EXTINF:-1 ,Матч! Страна
+http://178.163.45.148:81/udp/234.0.0.188:2000
+#EXTINF:-1 ,Охота и рыбалка
+http://178.163.45.148:81/udp/234.0.0.230:2000
 #EXTINF:-1,пппппппп
 https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
 #EXTINF:-1,Видеокассета
@@ -166,24 +221,6 @@ http://91.213.59.156/play/77/index.m3u8
 http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
 #EXTINF:-1,LAVA HD 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
-#EXTINF:-1,Galaxy TV
-http://radm.mediacdn.ru/cdn/galaxy/playlist_sdhigh.m3u8
-#EXTINF:-1,Трофей
-http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
-#EXTINF:-1,Рибалка ТВ
-http://91.213.59.156/play/29/index.m3u8
-#EXTINF:-1,Рыбалка и охота
-https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
-#EXTINF:-1 ,Eurosport 2 HD
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
-#EXTINF:-1,Лучшие моменты ЛЧ
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,Лучшие моменты ЛЧ
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,Телеканал High TV
-https://v2.catcast.tv/content/270/index.m3u8
-#EXTINF:-1,Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,пппппппппп
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:-1 ,Мир
@@ -223,8 +260,8 @@ http://178.163.45.148:81/udp/234.0.0.230:2000
 #EXTINF:-1 ,===========================
 #EXTINF:-1 ,Мир   (сарафан)
 http://178.163.45.148:81/udp/234.0.0.246:2000
-#EXTINF:-1,Мир сериала      ++
-http://178.163.45.148:81/udp/234.0.0.103:2000
+#EXTINF:-1,Мир сериала      
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
 #EXTINF:-1 ,НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1 ,НТВ Хит
@@ -259,4 +296,3 @@ http://31.28.61.84:4022/udp/232.0.2.4:1234
 http://178.163.45.148:81/udp/234.0.0.188:2000
 #EXTINF:-1 ,Охота и рыбалка
 http://178.163.45.148:81/udp/234.0.0.230:2000
-
