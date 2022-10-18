@@ -40,6 +40,8 @@ http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 http://178.163.45.148:81/udp/234.0.0.103:2000
 #EXTINF:-1,Русский Детектив
 http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1,ДОМ КИНО
+http://193.233.9.49/streams/media/Dom_kino/index.m3u8
 #EXTINF:-1,СТС  
 https://mhd116.iptv2022.com/p/LqMNMxOhuwJ8BJQIGeIGqw,1662910271/streaming/stsott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,СТС
