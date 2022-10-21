@@ -97,6 +97,8 @@ http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
 http://91.213.59.156/play/29/index.m3u8
 #EXTINF:-1,Рыбалка и охота
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
+#EXTINF:-1, Футбол
+http://185.23.80.26:8080/Football/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Лучшие моменты ЛЧ
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,Лучшие моменты ЛЧ
