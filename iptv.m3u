@@ -113,7 +113,6 @@ http://95.217.196.109:8081/russia/moya_planeta/chunks.m3u8?nimblesessionid=21078
 http://mfe02.cliptv.az/dash/2x2_SD.ism/audio/rus/73554453516468.mp4
 #EXTINF:-1,Детский мир
 http://mfe02.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd#EXTINF:-1,Футбол
-https://estx03.varcdn.top/footbolru/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Охота и рыбалка
 http://193.233.9.49/streams/media/Ohota_i_rybalka/index.m3u8
 #EXTINF:-1,Fox
