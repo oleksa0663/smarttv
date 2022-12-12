@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1,1+1
-http://91.213.59.156/play/23/index.m3u8
-#EXTINF:-1,2+2
-http://91.213.59.156/play/17/index.m3u8
-#EXTINF:-1,ICTV
-http://91.213.59.156/play/30/index.m3u8
-#EXTINF:-1,Новый канал HD
-http://91.213.59.156/play/33/index.m3u8
-#EXTINF:-1,СТБ
-http://91.213.59.156/play/34/index.m3u8
-#EXTINF:-1,Інтер
-http://91.213.59.156/play/107/index.m3u8
-#EXTINF:-1,ТЕТ
-http://91.213.59.156/play/16/index.m3u8
-#EXTINF:-1,К1
-http://91.213.59.156/play/68/index.m3u8
-#EXTINF:-1,НТН
-http://91.213.59.156/play/66/index.m3u8
-#EXTINF:-1,Enter-фільм
-http://91.213.59.156/play/72/index.m3u8
-#EXTINF:-1,МЕГА
-http://91.213.59.156/play/70/index.m3u8
 #EXTINF:-1,Квартал ТВ 
 http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,Мир  
