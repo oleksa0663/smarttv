@@ -22,7 +22,7 @@ http://45.94.219.9:8081/stream/test105/hls/playlist.m3u8
 http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:-1,Дом кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1,Дом кино
+#EXTINF:-1 group-title="KINO+",Дом Кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 #EXTINF:-1,Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
@@ -37,7 +37,7 @@ http://iptv.ktkru.ru:8017/index.m3u8
 #EXTINF:-1,СТС
 http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 #EXTINF:-1,СТС LOVE  --  
-http://194.143.148.28:8080/CTCLove/tracks-v1a1/mono.m3u8
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
 #EXTINF:-1,Сарафан   --    
 http://178.163.45.148:81/udp/234.0.0.246:2000
 #EXTINF:-1,РЕН ТВ  --
@@ -54,10 +54,10 @@ https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1,ТНТ  --
 https://mhd116.iptv2022.com/p/ENsC3b_VMJLCDLxVoMt8ig,1662910271/streaming/tntott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1,Че!  --
-https://mhd116.iptv2022.com/p/io_TIIy8mXn1xvsvpzpV0g,1662910272/streaming/cheott/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1,КВН ТВ  --
-http://radm.mediacdn.ru/cdn/kvn/playlist_sdhigh.m3u8
+#EXTINF:-1,Киноклуб
+http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1,КИНО-1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1,2х2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1,Рыбалка и охота
@@ -106,14 +106,8 @@ http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
 #EXTINF:-1,НТВ Хит
 http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1,Сарафан ТВ  ==
-http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8Сарафан ТВ
-Е#EXTINF:-1,Paramount Comedy  ==
-http://77.72.22.42:8080/9052/tracks-v1a1/mono.m3u
-#EXTINF:-1,Русский бестселлер  ==
-http://95.217.196.109:8081/russia/russkij_bestseller/chunks.m3u8?nimblesessionid=21087313
-#EXTINF:-1,TV_XXI  ==
-http://193.233.9.49/streams/media/TV_XXI/index.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Домашний
 http://45.94.219.9:8081/stream/test118/hls/playlist.m3u8
 #EXTINF:-1,Еврокино  ==
@@ -124,41 +118,30 @@ http://95.217.196.109:8081/russia/kino_tv_sd_new/chunks.m3u8?nimblesessionid=210
 http://45.94.219.9:8081/stream/test109/hls/playlist.m3u8
 #EXTINF:-1,Пятница
 http://45.94.219.9:8081/stream/test40/hls/playlist.m3u8
-#EXTINF:-1,Че  ==
-http://77.72.22.42:8080/9101/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Моя планета  ==
-http://95.217.196.109:8081/russia/moya_planeta/chunks.m3u8?nimblesessionid=21078594
-#EXTINF:-1,2x2  ==
-http://mfe02.cliptv.az/dash/2x2_SD.ism/audio/rus/73554453516468.mp4
+#EXTINF:-1,Память SSSR
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,Кинохит iptv.org.ua
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
+#EXTINF:-1,Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
 #EXTINF:-1,Детский мир
 http://mfe02.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
-#EXTINF:-1,Футбол  ==
-#EXTINF:-1,Охота и рыбалка  ==
-http://193.233.9.49/streams/media/Ohota_i_rybalka/index.m3u8
-#EXTINF:-1,Fox  ==
-http://193.233.9.49/streams/media/FOX_HD/index.m3u8
-#EXTINF:-1,Fox Life  ==
-http://193.233.9.49/streams/media/Fox_Life/index.m3u8
-#EXTINF:-1,Red  ==
-https://mhd116.iptv2022.com/p/vprUJWo2kA4b0ckMBtrdRQ,1662910273/streaming/red/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1,TV XXI  ==
-http://193.233.9.49/streams/media/TV_XXI/index.m3u8
-#EXTINF:-1,Еврокино  ==
-http://193.233.9.49/streams/media/EVROKINO/index.m3u8
+#EXTINF:-1,Кинокомедия HD
+http://46.174.83.66/Kinokomedia/video.m3u8
+#EXTINF:-1,Кинокомедия tva
+http://194.113.234.110:4179
+#EXTINF:-1,Иллюзион+ kaz
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1,Иллюзион+ R
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1,TV 1000 Action
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
+#EXTINF:-1,Еврокино HD
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
 #EXTINF:-1,BOLT  ==
 http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
 #EXTINF:-1,Комедия
-http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
-#EXTINF:-1,Кинокомедия  == 
-http://213.172.73.170:8081/nimble_live/1122__Kinokomediya/playlist.m3u8
-#EXTINF:-1,Galaxy TV  ==
-http://radm.mediacdn.ru/cdn/galaxy/playlist_sdhigh.m3u8
-#EXTINF:-1,Трофей  ==
-http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
-#EXTINF:-1,Рибалка ТВ  ==
-http://91.213.59.156/play/29/index.m3u8
-#EXTINF:-1, Футбол  ==
-http://185.23.80.26:8080/Football/tracks-v1a1/mono.m3u8
+http://flu.ttk.mx:9090/Kome
 #EXTINF:-1,Лучшие моменты ЛЧ
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,Лучшие моменты ЛЧ
