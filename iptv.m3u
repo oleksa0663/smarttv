@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Квартал ТВ 
 http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,Мир  --  
+#EXTINF:-1,Мир   
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
 #EXTINF:-1,,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com#EXTINF:-1,НТВ 
@@ -14,7 +14,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
 http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 #EXTINF:-1,НТВ Правда
 http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
-#EXTINF:-1,МИР сериал  --
+#EXTINF:-1,МИР сериал  
 http://178.163.45.148:81/udp/234.0.0.103:2000==
 #EXTINF:-1,Русский детектив
 http://45.94.219.9:8081/stream/test105/hls/playlist.m3u8
@@ -38,8 +38,8 @@ http://iptv.ktkru.ru:8017/index.m3u8
 http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 #EXTINF:-1,СТС LOVE  --  
 http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
-#EXTINF:-1,Сарафан   --    
-http://178.163.45.148:81/udp/234.0.0.246:2000
+#EXTINF:-1,Сарафан     
+http://192.162.212.60:4880/sarafan/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,РЕН ТВ  --
 https://mhd116.iptv2022.com/p/LpSVIGMnBR3nDPA0FOX0Eg,1662910271/streaming/rentvott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,ТВ3 
