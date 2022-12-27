@@ -2,7 +2,7 @@
 #EXTINF:-1,Квартал ТВ 
 http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,Мир   
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+http:\\hls.mirtv.cdnvideo.ru\mirtv-parampublish\mirtv_2500\tracks-v1a1\mono.m3u8?hls_proxy_host=b541824f53cfc7fce14cd151ba1a1ae0
 #EXTINF:-1,,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com#EXTINF:-1,НТВ 
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
