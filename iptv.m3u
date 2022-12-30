@@ -53,7 +53,7 @@ http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
 #EXTINF:-1,Сарафан       
 http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
 #EXTINF:-1,Сарафан       
-http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
+http://178.217.72.66:8080/Sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1,РЕН ТВ  --
 https://mhd116.iptv2022.com/p/LpSVIGMnBR3nDPA0FOX0Eg,1662910271/streaming/rentvott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,ТВ3 
