@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ICTV 
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,Квартал ТВ 
 http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,Мир   
@@ -48,6 +50,8 @@ http://iptv.ktkru.ru:8017/index.m3u8
 http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 #EXTINF:-1,СТС LOVE   
 http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+#EXTINF:-1,Сарафан       
+http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
 #EXTINF:-1,Сарафан       
 http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
 #EXTINF:-1,РЕН ТВ  --
