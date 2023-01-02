@@ -25,7 +25,7 @@ http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:-1,Дом кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 #EXTINF:-1 group-title="KINO+",Дом Кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+https://sc.id-tv.kz/DomKino_34_35.m3u8
 #EXTINF:-1,Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:-1,Русская комедия
@@ -113,7 +113,6 @@ https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1,KINO 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
-
 #EXTINF:-1,Мужское Кино HD
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1,Родное Кино
@@ -127,10 +126,6 @@ http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
 #EXTINF:-1,НТВ Хит
 http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1,Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Пятница
-http://45.94.219.9:8081/stream/test40/hls/playlist.m3u8
 #EXTINF:-1,Память SSSR
 https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1,Детский мир
