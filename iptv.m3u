@@ -4,7 +4,7 @@ http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359
 #EXTINF:-1,Квартал ТВ 
 http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,Мир   
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1,,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com#EXTINF:-1,НТВ 
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -66,6 +66,10 @@ http://iptv.ktkru.ru:8014/index.m3u8
 http://45.94.219.9:8081/stream/test118/hls/playlist.m3u8
 #EXTINF:-1,Иллюзион +
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1,Индийское кино
+https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1,Классика индийского кино
+https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:-1,ТНТ4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1,ТНТ  
@@ -109,8 +113,7 @@ https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1,KINO 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1,Индийское кино
-https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
+
 #EXTINF:-1,Мужское Кино HD
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1,Родное Кино
