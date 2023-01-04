@@ -152,3 +152,182 @@ http://163.172.186.160:8082/m1Tz/live/wwe_ru.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MT
 #EXTINF:-1,Wrestling
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 в
+#EXTM3U
+#EXTINF:-1,ICTV 
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Квартал ТВ 
+http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,Мир   
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:0,МИР (+4)
+http://langamepp.com/chtst/261DB13F807188CF3DC07FC1D6E49862142C8508B642F41F8110C71056CCB3560F
+#EXTINF:-1,,Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,НТВ 
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1,НТВ Сериал  
+http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+#EXTINF:-1,НТВ хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+#EXTINF:-1,НТВ Правда
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
+#EXTINF:-1,МИР сериал  
+http://178.163.45.148:81/udp/234.0.0.103:2000==
+#EXTINF:0,ПЕРВЫЙ
+http://langamepp.com/chtst/9C36CC54849426E656145CE760410E4EAE07F863B2A75A36E9C4E936E091BC9F17E675
+#EXTINF:-1,Русский детектив
+http://45.94.219.9:8081/stream/test105/hls/playlist.m3u8
+#EXTINF:-1,Русский Детектив
+http://langamepp.com/chtst/634C182986E0E365B8F51AE19635B88B517D2C1EB0D39FB43824993017E4395BD99CA0F93F3057B50D24983123E5025AE19CA0F934BB911093C67495CB
+#EXTINF:0,Русский Бестселлер 
+http://langamepp.com/chtst/032EB00EC63AC7B9DFD812B529A11BD7311F8439F009BB685F099164A8709A07B9FE08DE7FEA76696A099364AB709A07B6FE0BDE7DEA72685F8360C0029275A35E
+#EXTINF:-1,Дом кино
+https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+#EXTINF:-1,Дом Кино
+http://langamepp.com/chtst/34A6F76D13560C53E0FA26857F8DCB2E0697C35A25657083542A9855C35D71FE8C764ABDAD
+#EXTINF:-1,Золотая коллекция
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+#EXTINF:0,Кино ТВ
+http://langamepp.com/chtst/1D176A6839450D1D696F240647D936482F265E5F0F7671CDD3BF9CD6FA0988999FC7D8
+#EXTINF:0,НСК 49
+http://langamepp.com/chtst/64AB240D65ECF36D67426A0C04FED540569A103A53DF8FBDDA93EBDCBECAEC
+#EXTINF:0,КЛЮЧ
+http://langamepp.com/chtst/4A3F3DEDE1AF815779B6ABDC7CFAEF3C780E09DAD79CFD87C366100DF22B68
+#EXTINF:-1,Русская комедия
+http://45.94.219.9:8081/stream/test130/hls/playlist.m3u8
+#EXTINF:0,Комедия ТВ
+http://langamepp.com/chtst/ADEC3CD0F0E5D41E3D004F7B9B0538E59FDD08E7C6D6A8CE87D0F1AB27D58D35193C84017F3456CE8F
+#EXTINF:-1,Кинокомедия tva
+http://194.113.234.110:4179
+#EXTINF:0 ,Комедия ТВ 
+http://langamepp.com/chtst/4575D32624547E9D0B2979872468C3D17744E7111267024DB1F9C75798B87601F1A56BF7AB85FC4DB9720BF20F5BADA518
+#EXTINF:-1,КИНО-1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,Канал Disney
+http://langamepp.com/chtst/007BFB3B91C5E9D89A27CC3F0464D5D6324ACF0CA7F6950820F77CEFB9B46506BB1F9248FFA090
+#EXTINF:0,Феникс+ кино
+http://langamepp.com/chtst/AA72F41EDEE292FAE69090255A5B48AD9843C029E8D1EE2B624025F5E78BF07D10A375350E584242362D409B
+#EXTINF:0,Телекафе 
+http://langamepp.com/chtst/93B23001B4FEE2538A5AF2F13D64164FA183043682CD9E82088A472186B4A39F296280D0302E5708F82FD9C253104B
+#EXTINF:-1,CC TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1,Русский иллюзион
+https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://86.57.178.105:10823
+#EXTINF:-1,Иллюзион
+http://langamepp.com/chtst/0C4933922916F8E10B12C2A1487B2CD93E7807A51F2584308BC34170C9AAAD09B6998B4290C64031B0C27970C6AB9B09B4998D42944D8A942021ACD515
+#EXTINF:-1 ,Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1,СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:0,СТС 
+http://langamepp.com/chtst/D2EBD366995754F30F3C5390E4A6D7C5E0DAE751AF6428228EEDD14165775714503A53B718
+#EXTINF:0,СТС Love 
+http://langamepp.com/chtst/ECFC7A41AE28E3F1742FD22D0DE5AC4FDECD4E76981B9F20F5FE50FC8C89C33989A70834851B8D8529
+#EXTINF:-1,СТС LOVE   
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+#EXTINF:-1,Сарафан       
+http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
+#EXTINF:-1,Сарафан       
+http://langamepp.com/chtst/F4E29519639649F65A1AD298178766E6C6D3A12E55A53527DBCA62499757D637703225C9DE
+#EXTINF:-1,Анекдот ТВ
+http://langamepp.com/chtst/0987030DC0957B2802825248018849A23BB6373AF6A607F8B252EF98B458F372BD57BDDC4244F9F8B0
+#EXTINF:0,Ю ТВ +2
+http://langamepp.com/chtst/FBFC961E6CB5ED1A9879F03EE3148EBFC9CDA2295A8691CB16A872EE513FBC
+#EXTINF:-1,РЕН ТВ  
+http://langamepp.com/chtst/DFE897E2AE70D6AC6D00EB532135E658EDD9A3D59843AA7DEDD05E839CE464886DB3E5978543B8D830
+#EXTINF:-1,ТВ3 
+http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
+#EXTINF:-1 ,Пятница!  
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 ,Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:0,Домашний 
+http://langamepp.com/chtst/4913D132FFCACCF966D32B4E921B98947B22E505C9F9B029D203959E2ECB2845C1C36CE2471A75A214A6007DFC6FC5
+#EXTINF:-1,Иллюзион +
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1,Индийское кино
+https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1,Классика индийского кино
+https://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:0,Индия ТВ 
+http://langamepp.com/chtst/F5EF09EDD7DF45B472320B90ACCF9EA4C7DE3DDAE1EC3964CAE2B640181F26757A3E8B3D658437C1590165E4F1
+#EXTINF:0,ТНТ4
+http://langamepp.com/chtst/1338E971838DD747FFB0168B7A3ACB352109DD46B5BEAB967D60AB5AF80E94E493E85CA1305D6F974160AB5BCAEA70E49FE854A0085D6E
+#EXTINF:-1,ТНТ  
+http://langamepp.com/chtst/01412CFEF463262DB30A5421BC2048A6337018C9C2505AFC31DAE9F03E7B3AD32A72428AA9
+#EXTINF:0,Наше Новое Кино 
+http://langamepp.com/chtst/028CC94F85921BACC4F428E9FE6D487630BDFD78B3A1677C7924983876BDFDA6BF5C779F3742A57C7124923946BDF5A6BCD7BB3AAEA175D899
+#EXTINF:0,Любимое Кино 
+http://langamepp.com/chtst/A298E44EE3191CFF2DD4FA18605875E590A9D079D52A602F960574C8D188CD351E485A9E56C9A62F950447C8DE03079089AB8A3ABE
+#EXTINF:-1,Наше любимое кино
+http://45.94.219.9:8081/stream/test109/hls/playlist.m3u8
+#EXTINF:-1,Киноклуб
+http://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:0,Еврокино 
+http://langamepp.com/chtst/D6565A2BF9BEC7930728B1027C147F42E4676E1CCF8DBB43B2F803D3FCC4C1926C86E2FB446E79C8755D9A31126022
+#EXTINF:-1,Еврокино HD
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
+#EXTINF:-1,VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Кинохит iptv.org.ua
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
+#EXTINF:-1,Доку HD
+https://edge-01.kino.watch/docu/index.m3u8
+#EXTINF:-1,Trash HD
+https://livetv.mylifeisgood.ml/channels/trash
+#EXTINF:-1,Свежаки HD
+#EXTGRP:Кино
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:-1,Уже видел(Хит) HD
+https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:-1,Fox HD
+https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
+#EXTINF:-1,Синема Классик TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+http://langamepp.com/chtst/504D70C0A94A21FA1C3C5BBAFA704D86627C44F79F795D2AA0EDD86A4CA1CC56EA9DCE101C9A9B2AA4ECE66A44
+#EXTINF:-1,Мужское Кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1,Родное Кино
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1,Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1,VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Детский мир
+http://mfe02.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1,Кинокомедия HD
+http://46.174.83.66/Kinokomedia/video.m3u8
+#EXTINF:-1,Иллюзион+ kaz
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1,Комедия
+http://flu.ttk.mx:9090/Kome
+#EXTINF:-1,2х2
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+#EXTINF:-1,Рыбалка и охота
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
+#EXTINF:0,Футбол [ru +3 NT]
+http://langamepp.com/chtst/5556DD4C3A8A9D62B3FC75FFEBE02E116767E97B0CB9E1B3372DF62E69309FC1EB86661748FFB651DD8828
+#EXTINF:-1,Лучшие моменты ЛЧ
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1,Телеканал High TV
+https://v2.catcast.tv/content/270/index.m3u8
+#EXTINF:-1,Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,Wrestling TV онлайн
+http://163.172.186.160:8082/m1Tz/live/wwe_ru.m3u8
+http://163.172.186.160:8082/m1Tz/live/wwe_ru.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMiA4OjAzOjQyIEFNJmhhc2hfdmFsdWU9cFVhT3oydEhQUHkvajVjSEcrckVXdz09JnZhbGlkbWludXRlcz0xODAmaXA9MTk0LjM2LjgwLjY4JmNoZWNraXA9dHJ1ZQ==
+#EXTINF:-1,Wrestling
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:-1,KINO 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:0,Русская Ночь 
+http://langamepp.com/chtst/FFBC46B00B988AB9F3A51058D5518F66CD8D72873DABF6687374938954800EB6456CF661844837694D74978959795FD22F07973FDB2A5A0E2225C0E604D05FDD2E37973522C3F8CCD8967E2C88
