@@ -1,157 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ICTV 
-http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,Квартал ТВ 
-http://portal.ott.pink/watch/123/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,Мир   
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1,,Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8?checkedby:iptvcat.com#EXTINF:-1,НТВ 
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ
-http://iptv.ktkru.ru:8004/index.m3u8
-#EXTINF:-1,НТВ Сериал  
-http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1,НТВ хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1,НТВ Правда
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
-#EXTINF:-1,МИР сериал  
-http://178.163.45.148:81/udp/234.0.0.103:2000==
-#EXTINF:-1,Русский детектив
-http://45.94.219.9:8081/stream/test105/hls/playlist.m3u8
-#EXTINF:-1,Русский Детектив
-http://mfe02.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
-#EXTINF:-1,Дом кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1 group-title="KINO+",Дом Кино
-https://sc.id-tv.kz/DomKino_34_35.m3u8
-#EXTINF:-1,Золотая коллекция
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
-#EXTINF:-1,Русская комедия
-http://45.94.219.9:8081/stream/test130/hls/playlist.m3u8
-#EXTINF:-1,Комедия
-http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
-#EXTINF:-1,Кинокомедия
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8 
-#EXTINF:-1,КИНО-1 INTERNATIONAL
-https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,CC TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1,Русский иллюзион
-https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
-#EXTINF:-1,Русский Иллюзион
-http://86.57.178.105:10823
-#EXTINF:-1,Иллюзион+ R
-http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
-#EXTINF:-1 ,Звезда
-http://iptv.ktkru.ru:8017/index.m3u8
-#EXTINF:-1,СТС
-http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
-#EXTINF:-1,СТС LOVE   
-http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
-#EXTINF:-1,Сарафан       
-http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
-#EXTINF:-1,Сарафан       
-http://178.217.72.66:8080/Sarafan/tracks-v1a1/mono.m3u8
-#EXTINF:-1,РЕН ТВ  --
-https://mhd116.iptv2022.com/p/LpSVIGMnBR3nDPA0FOX0Eg,1662910271/streaming/rentvott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1,ТВ3 
-http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
-#EXTINF:-1 ,Пятница!  
-http://iptv.ktkru.ru:8016/index.m3u8
-#EXTINF:-1 ,Домашний
-http://iptv.ktkru.ru:8014/index.m3u8
-#EXTINF:-1,Домашний
-http://45.94.219.9:8081/stream/test118/hls/playlist.m3u8
-#EXTINF:-1,Иллюзион +
-https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
-#EXTINF:-1,Индийское кино
-https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
-#EXTINF:-1,Классика индийского кино
-https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1,ТНТ4 International
-https://sc.id-tv.kz:443/tnt4_34_35.m3u8
-#EXTINF:-1,ТНТ  
-https://mhd116.iptv2022.com/p/ENsC3b_VMJLCDLxVoMt8ig,1662910271/streaming/tntott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1,Наше любимое кино
-http://45.94.219.9:8081/stream/test109/hls/playlist.m3u8
-#EXTINF:-1,Кинопремьера FHD
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1,Киноклуб
-http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1,Еврокино HD
-http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
-#EXTINF:-1,VIP Comedy HD
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,2х2
-https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1,Рыбалка и охота
-https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
-#EXTINF:-1,Кинохит iptv.org.ua
-http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
-#EXTINF:-1,TV 1000 Action
-http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6
-#EXTINF:-1,Доку HD
-https://edge-01.kino.watch/docu/index.m3u8
-#EXTINF:-1,Trash HD
-https://livetv.mylifeisgood.ml/channels/trash
-#EXTINF:-1,VIP Megahit HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Premiere HD
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,VIP Serial HD
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,Свежаки HD
-#EXTGRP:Кино
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:-1,Уже видел(Хит) HD
-https://edge-01.kino.watch/hit/index.m3u8
-#EXTINF:-1,Fox HD
-https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
-#EXTINF:-1,Синема Классик TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1,KINO 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1,Мужское Кино HD
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1,Родное Кино
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1,Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1,новый====================================
-#EXTINF:-1,НТВ
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ Сериал
-http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
-#EXTINF:-1,НТВ Хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
-#EXTINF:-1,Память SSSR
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1,Детский мир
-http://mfe02.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
-#EXTINF:-1,Кинокомедия HD
-http://46.174.83.66/Kinokomedia/video.m3u8
-#EXTINF:-1,Кинокомедия tva
-http://194.113.234.110:4179
-#EXTINF:-1,Иллюзион+ kaz
-https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
-#EXTINF:-1,Комедия
-http://flu.ttk.mx:9090/Kome
-#EXTINF:-1,Лучшие моменты ЛЧ
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,Лучшие моменты ЛЧ
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1,Телеканал High TV
-https://v2.catcast.tv/content/270/index.m3u8
-#EXTINF:-1,Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,Wrestling TV онлайн
-http://163.172.186.160:8082/m1Tz/live/wwe_ru.m3u8
-http://163.172.186.160:8082/m1Tz/live/wwe_ru.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMiA4OjAzOjQyIEFNJmhhc2hfdmFsdWU9cFVhT3oydEhQUHkvajVjSEcrckVXdz09JnZhbGlkbWludXRlcz0xODAmaXA9MTk0LjM2LjgwLjY4JmNoZWNraXA9dHJ1ZQ==
-#EXTINF:-1,Wrestling
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-в
 #EXTM3U
 #EXTINF:-1,ICTV 
 http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
@@ -186,7 +33,7 @@ http://langamepp.com/chtst/032EB00EC63AC7B9DFD812B529A11BD7311F8439F009BB685F099
 #EXTINF:-1,Дом кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 #EXTINF:-1,Дом Кино
-http://langamepp.com/chtst/34A6F76D13560C53E0FA26857F8DCB2E0697C35A25657083542A9855C35D71FE8C764ABDAD
+http://193.233.9.49/streams/media/Dom_kino/index.m3u8
 #EXTINF:-1,Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:0,Кино ТВ
@@ -198,7 +45,7 @@ http://langamepp.com/chtst/4A3F3DEDE1AF815779B6ABDC7CFAEF3C780E09DAD79CFD87C3661
 #EXTINF:-1,Русская комедия
 http://45.94.219.9:8081/stream/test130/hls/playlist.m3u8
 #EXTINF:0,Комедия ТВ
-http://langamepp.com/chtst/ADEC3CD0F0E5D41E3D004F7B9B0538E59FDD08E7C6D6A8CE87D0F1AB27D58D35193C84017F3456CE8F
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1,Кинокомедия tva
 http://194.113.234.110:4179
 #EXTINF:0 ,Комедия ТВ 
@@ -217,8 +64,8 @@ http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
 #EXTINF:-1,Русский Иллюзион
 http://86.57.178.105:10823
-#EXTINF:-1,Иллюзион
-http://langamepp.com/chtst/0C4933922916F8E10B12C2A1487B2CD93E7807A51F2584308BC34170C9AAAD09B6998B4290C64031B0C27970C6AB9B09B4998D42944D8A942021ACD515
+#EXTINF:-1,Иллюзион+
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 ,Звезда
 http://iptv.ktkru.ru:8017/index.m3u8
 #EXTINF:-1,СТС
@@ -254,7 +101,7 @@ https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1,Классика индийского кино
 https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0,Индия ТВ 
-http://langamepp.com/chtst/F5EF09EDD7DF45B472320B90ACCF9EA4C7DE3DDAE1EC3964CAE2B640181F26757A3E8B3D658437C1590165E4F1
+https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 #EXTINF:0,ТНТ4
 http://langamepp.com/chtst/1338E971838DD747FFB0168B7A3ACB352109DD46B5BEAB967D60AB5AF80E94E493E85CA1305D6F974160AB5BCAEA70E49FE854A0085D6E
 #EXTINF:-1,ТНТ  
