@@ -103,6 +103,8 @@ http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1 ,Киносвидание HD
 http://95.217.196.109:8081/russia/kinosvidanie_sd_new/playlist.m3u8
+#EXTINF:-1,Киносемья HD
+http://95.217.196.109:8081/russia/kinosemya_sd_new/playlist.m3u8
 #EXTINF:0,Еврокино 
 http://langamepp.com/chtst/
 #EXTINF:-1,Еврокино HD
