@@ -38,6 +38,8 @@ http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
 http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:0,Домашний
 http://flu.ttk.mx:9090/Domashni/index.m3u8?token=orh6o
+#EXTINF:-1,Память SSSR
+https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1,Золотая коллекция
 http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 #EXTINF:-1,Русская комедия
