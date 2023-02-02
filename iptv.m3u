@@ -101,7 +101,7 @@ http://langamepp.com/chtst/
 #EXTINF:0,Любимое Кино 
 http://langamepp.com/chtst/
 #EXTINF:-1,Наше любимое кино
-http://45.94.219.9:8081/stream/test109/hls/playlist.m3u8
+http://185.32.44.154/lubimoekino/index.m3u8
 #EXTINF:-1,Киноклуб
 http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:-1,Кинохит 
