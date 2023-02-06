@@ -93,7 +93,7 @@ http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
 #EXTINF:-1 ,Пятница!  
 http://iptv.ktkru.ru:8016/index.m3u8
 #EXTINF:0,ТНТ4
-http://langamepp.com/chtst/
+https://sc.id-tv.kz:443/tnt4_34_35.m3u8
 #EXTINF:-1,ТНТ  
 http://langamepp.com/chtst/
 #EXTINF:0,Наше Новое Кино 
