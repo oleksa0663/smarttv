@@ -6,10 +6,25 @@ http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359
 http://51.15.176.84/hls/ictv-ch/index.m3u8
 #EXTINF:-1,ТЕТ 
 http://91.146.94.234:10001/play/a04p
-#EXTINF:-1,Квартал ТВ 
-http://ott.dugatv.me/chua017/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
-#EXTINF:-1,Квартал ТВ 
-http://ott.dugatv.me/chua017/mpegts?token=64ff05a09c8cc92c2edf83f4336943bf853d5aac&filter=tracks:v1a1
+#EXTINF:-1, КВАРТАЛ ТВ
+http://195.189.60.181:312/456/index.m3u8
+#EXTINF:-1, TV 1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, TV 1000 ACTION HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, VIP COMEDY HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, VIP MEGAHIT HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, VIP PREMIERE HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, VIP SERIAL HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 , ENTER-ФІЛЬМ HD
+http://195.189.60.181:312/44/index.m3u8
+#EXTINF:-1, МЕЛОДРАМА HD
+http://195.189.60.181:312/890/index.m3u8
+#EXTINF:-1 , МЕДИЦИНСКИЕ СЕРИАЛЫ HD
 #EXTINF:-1,Мир   
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:0, Центр
@@ -144,6 +159,18 @@ http://mfe02.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1,Рыбалка и охота
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8?token=iptv.org.ua
+#EXTINF:-1, XSPORT UA HD
+http://195.189.60.181:312/504/index.m3u8
+#EXTINF:-1 , МАТЧ! ФУТБОЛ 1 HD
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, МАТЧ! ФУТБОЛ 2 HD
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, МАТЧ! ФУТБОЛ 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1, МАТЧ! HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1 , МАТЧ! ПРЕМЬЕР HD
+http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,Лучшие моменты ЛЧ
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,Матч Премьер HD
