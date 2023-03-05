@@ -48,7 +48,7 @@ http://45.94.219.9:8081/stream/test105/hls/playlist.m3u8
 #EXTINF:-1,Дом кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 #EXTINF:0,Дом Кино
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+http://185.32.44.154/domkino/index.m3u8
 #EXTINF:-1 ,Домашний
 http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:0,Домашний
@@ -56,7 +56,7 @@ http://flu.ttk.mx:9090/Domashni/index.m3u8?token=orh6o
 #EXTINF:-1,Память SSSR
 https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1,Золотая коллекция
-http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
 #EXTINF:-1,Русская комедия
 http://45.94.219.9:8081/stream/test130/hls/playlist.m3u8
 #EXTINF:0,Комедия
@@ -98,7 +98,7 @@ http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 #EXTINF:0,СТС 
 http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
 #EXTINF:-1,СТС LOVE   
-http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:-1,Сарафан       
 http://45.94.219.9:8081/stream/test84/hls/playlist.m3u8
 #EXTINF:-1,Сарафан       
