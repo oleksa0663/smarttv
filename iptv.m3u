@@ -7,6 +7,7 @@ http://51.15.176.84/hls/ictv-ch/index.m3u8
 #EXTINF:-1,ТЕТ 
 http://91.146.94.234:10001/play/a04p
 #EXTINF:-1, КВАРТАЛ ТВ
+https://ip3.pokaz.me:1443/602/index.m3u8?wmsAuthSign=1680356525p06i18i63i491Sa16c146bc8553d13abedbbc8242ef290
 http://195.189.60.181:312/456/index.m3u8
 #EXTINF:-1, TV 1000 HD
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
