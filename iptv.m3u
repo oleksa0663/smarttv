@@ -2,34 +2,14 @@
 #EXTINF:0,
 #EXTINF:-1,ICTV 
 http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:2704,s01e01_480.mp4 1
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFS6WA-vLMqPDHy14-hIO8tGkFBQUFBQUFBQUFBQnBRYkVndm9BTEVJVnc0RT0/Koshka.2023-Rus/s01e01_480.mp4
-#EXTINF:2639,s01e02_480.mp4  2
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFSYq.JE60JW3L56QlsU56oU0FBQUFBQUFBQUFBQnBRYlZRZm9BTEVJVnc0RT0/Koshka.2023-Rus/s01e02_480.mp4
-#EXTINF:2698,s01e03_480.mp4  3
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFSYq.JE60JW3L56QlsU56oU0FBQUFBQUFBQUFBQnBRYlZRZm9BTEVJVnc0RT0/Koshka.2023-Rus/s01e03_480.mp4
-#EXTINF:2645,s01e04_480.mp4  4
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFS31XIosDZ-swPHKUrwBCERUFBQUFBQUFBQUFBQnBRWW13L29BTEVJVnc0RT0/Koshka.2023-Rus/s01e04_480.mp4
-#EXTINF:2618,s01e05_480.mp4  5
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFSLw1L2dSX8B1sZDLN1VtqaEFBQUFBQUFBQUFBQnBSWkF3L29BTEVJVnc0RT0/Koshka.2023-Rus/s01e05_480.mp4
-#EXTINF:2930,s01e06_480.mp4  6
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFSLw1L2dSX8B1sZDLN1VtqaEFBQUFBQUFBQUFBQnBSWkF3L29BTEVJVnc0RT0/Koshka.2023-Rus/s01e06_480.mp4
-#EXTINF:2836,s01e07_480.mp4  7
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFSLw1L2dSX8B1sZDLN1VtqaEFBQUFBQUFBQUFBQnBSWkF3L29BTEVJVnc0RT0/Koshka.2023-Rus/s01e07_480.mp4
-#EXTINF:2702,s01e08_480.mp4  8
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFSSpTimpo2VGpD23SJ.eBuKEFBQUFBQUFBQUFBQnBSYmdCZm9BTEVJVnc0RT0/Koshka.2023-Rus/s01e08_480.mp4
-#EXTINF:2704,s01e01_480.mp4  9
-#EXTVLCOPT:network-caching=1000
-https://nl201.cdnsqu.com/s/FXFS6WA-vLMqPDHy14-hIO8tGkFBQUFBQUFBQUFBQnBRYkVndm9BTEVJVnc0RT0/Koshka.2023-Rus/s01e01_480.mp4
-
+#EXTINF:-1,  Перец
+https://cdn-cache01.voka.tv/live/971-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1, Беларусь1
+https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1928829670_b1010000_sleng.m3u8
+#EXTINF:-1,  Беларусь 3
+https://cdn-cache01.voka.tv/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1, Твоё ТВ
+https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ICTV
 http://51.15.176.84/hls/ictv-ch/index.m3u8
 #EXTINF:-1,ТЕТ 
