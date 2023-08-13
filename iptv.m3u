@@ -37,9 +37,9 @@ http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ
 http://iptv.ktkru.ru:8004/index.m3u8
 #EXTINF:-1,НТВ Сериал  
-http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+https://cdn-cache01.voka.tv/live/2065-req_offset_28000000-req_window_0-2k_v5.m3u8
 #EXTINF:-1,НТВ хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/chunks.m3u8
 #EXTINF:-1,НТВ Правда
 http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 #EXTINF:-1,КИНОСЕРИЯ
@@ -47,7 +47,7 @@ https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 #EXTINF:-1,Дом кино
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 #EXTINF:0,Дом Кино
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+https://cdn-cache01.voka.tv/live/5105-req_offset_28000000-req_window_0-2k_v5.m3u8
 #EXTINF:-1 ,Домашний
 http://iptv.ktkru.ru:8014/index.m3u8
 #EXTINF:0,Домашний
